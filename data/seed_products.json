@@ -1,0 +1,204 @@
+{
+    "FakeStore": [
+        {
+            "source_id": "1",
+            "name": "Fjallraven Foldsack No. 1 Backpack",
+            "price": 109.95,
+            "currency": "USD",
+            "category": "men's clothing",
+            "in_stock": true,
+            "description": "Your perfect pack for everyday use and target walks in the forest.",
+            "image_url": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "attributes": {"rating_score": 3.9, "rating_count": 120, "source_api": "fakestoreapi.com", "description": "Your perfect pack for everyday use and target walks in the forest."}
+        },
+        {
+            "source_id": "2",
+            "name": "Mens Casual Premium Slim Fit T-Shirts",
+            "price": 22.30,
+            "currency": "USD",
+            "category": "men's clothing",
+            "in_stock": true,
+            "description": "Slim-fitting style, contrast raglan long sleeve.",
+            "image_url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "attributes": {"rating_score": 4.1, "rating_count": 259, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "3",
+            "name": "Mens Cotton Jacket",
+            "price": 55.99,
+            "currency": "USD",
+            "category": "men's clothing",
+            "in_stock": true,
+            "description": "Great outerwear jackets for Spring/Autumn/Winter.",
+            "image_url": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "attributes": {"rating_score": 4.7, "rating_count": 500, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "5",
+            "name": "John Hardy Women's Gold Dragon Bracelet",
+            "price": 695.00,
+            "currency": "USD",
+            "category": "jewelery",
+            "in_stock": true,
+            "description": "From our heritage collection, the John Hardy Women's bracelet.",
+            "image_url": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "attributes": {"rating_score": 4.6, "rating_count": 400, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "6",
+            "name": "Solid Gold Petite Micropave Diamond Ring",
+            "price": 168.00,
+            "currency": "USD",
+            "category": "jewelery",
+            "in_stock": true,
+            "description": "Satisfaction guaranteed. Return or exchange within 30 days.",
+            "image_url": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "attributes": {"rating_score": 3.9, "rating_count": 70, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "9",
+            "name": "WD 2TB External Hard Drive Portable",
+            "price": 64.00,
+            "currency": "USD",
+            "category": "electronics",
+            "in_stock": true,
+            "description": "USB 3.0 and USB 2.0 compatible portable storage.",
+            "image_url": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "attributes": {"rating_score": 3.3, "rating_count": 203, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "10",
+            "name": "SanDisk SSD PLUS 1TB Internal SSD",
+            "price": 109.00,
+            "currency": "USD",
+            "category": "electronics",
+            "in_stock": true,
+            "description": "Boost burst write performance for an improved PC experience.",
+            "image_url": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "attributes": {"rating_score": 2.9, "rating_count": 470, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "11",
+            "name": "Silicon Power 256GB NAND Flash Drive",
+            "price": 16.99,
+            "currency": "USD",
+            "category": "electronics",
+            "in_stock": true,
+            "description": "3D NAND flash with R/W speed up to 100/80 MB/s.",
+            "image_url": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "attributes": {"rating_score": 4.8, "rating_count": 319, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "14",
+            "name": "Samsung 49-Inch Ultrawide Gaming Monitor",
+            "price": 999.99,
+            "currency": "USD",
+            "category": "electronics",
+            "in_stock": true,
+            "description": "49-inch super ultrawide DQHD dual QHD display.",
+            "image_url": "https://fakestoreapi.com/img/81Zt42iIapL._AC_SX679_.jpg",
+            "attributes": {"rating_score": 4.2, "rating_count": 140, "source_api": "fakestoreapi.com"}
+        },
+        {
+            "source_id": "15",
+            "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket",
+            "price": 56.99,
+            "currency": "USD",
+            "category": "women's clothing",
+            "in_stock": true,
+            "description": "Lightweight perfect for trip or casual wear.",
+            "image_url": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "attributes": {"rating_score": 2.6, "rating_count": 235, "source_api": "fakestoreapi.com"}
+        }
+    ],
+    "DummyJSON": [
+        {
+            "source_id": "1",
+            "name": "Essence Mascara Lash Princess",
+            "price": 9.99,
+            "currency": "USD",
+            "category": "beauty",
+            "in_stock": true,
+            "description": "Popular mascara known for its volumizing effect.",
+            "image_url": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png",
+            "attributes": {"brand": "Essence", "weight_g": 50, "dimensions": {"width": 3, "height": 15, "depth": 3}, "rating_score": 4.94, "review_count": 3, "discount_pct": 7.17, "tags": ["beauty", "mascara"], "source_api": "dummyjson.com"}
+        },
+        {
+            "source_id": "2",
+            "name": "Eyeshadow Palette with Mirror",
+            "price": 19.99,
+            "currency": "USD",
+            "category": "beauty",
+            "in_stock": true,
+            "description": "Versatile eyeshadow palette with a built-in mirror.",
+            "image_url": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png",
+            "attributes": {"brand": "Glamour Beauty", "weight_g": 100, "dimensions": {"width": 12, "height": 1.5, "depth": 8}, "rating_score": 3.28, "review_count": 3, "discount_pct": 5.5, "tags": ["beauty", "eyeshadow"], "source_api": "dummyjson.com"}
+        },
+        {
+            "source_id": "6",
+            "name": "Calvin Klein CK One",
+            "price": 49.99,
+            "currency": "USD",
+            "category": "fragrances",
+            "in_stock": true,
+            "description": "Classic unisex fragrance, known for its clean and refreshing scent.",
+            "image_url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+            "attributes": {"brand": "Calvin Klein", "weight_g": 200, "dimensions": {"width": 5, "height": 16, "depth": 5}, "rating_score": 4.85, "review_count": 3, "discount_pct": 0.32, "tags": ["fragrances", "perfumes"], "source_api": "dummyjson.com"}
+        },
+        {
+            "source_id": "10",
+            "name": "HP Pavilion 15 Laptop",
+            "price": 799.99,
+            "currency": "USD",
+            "category": "laptops",
+            "in_stock": true,
+            "description": "The HP Pavilion 15 is a versatile laptop for everyday computing.",
+            "image_url": "https://cdn.dummyjson.com/products/images/laptops/HP%20Pavilion%2015%20Laptop/1.png",
+            "attributes": {"brand": "HP", "weight_g": 1800, "dimensions": {"width": 35.56, "height": 2.38, "depth": 24.07}, "rating_score": 4.43, "review_count": 3, "discount_pct": 9.37, "tags": ["laptops"], "source_api": "dummyjson.com"}
+        },
+        {
+            "source_id": "11",
+            "name": "Dell XPS 15",
+            "price": 1499.99,
+            "currency": "USD",
+            "category": "laptops",
+            "in_stock": true,
+            "description": "Premium laptop with InfinityEdge display and powerful performance.",
+            "image_url": "https://cdn.dummyjson.com/products/images/laptops/Dell%20XPS%2015/1.png",
+            "attributes": {"brand": "Dell", "weight_g": 1860, "dimensions": {"width": 34.4, "height": 1.82, "depth": 23.07}, "rating_score": 4.8, "review_count": 3, "discount_pct": 12.5, "tags": ["laptops", "premium"], "source_api": "dummyjson.com"}
+        },
+        {
+            "source_id": "12",
+            "name": "MacBook Pro 14 Inch Space Grey",
+            "price": 1999.99,
+            "currency": "USD",
+            "category": "laptops",
+            "in_stock": true,
+            "description": "Apple M3 Pro chip with 12-core CPU and up to 18-core GPU.",
+            "image_url": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/1.png",
+            "attributes": {"brand": "Apple", "weight_g": 1600, "dimensions": {"width": 31.26, "height": 1.55, "depth": 22.12}, "rating_score": 4.96, "review_count": 5, "discount_pct": 3.15, "tags": ["laptops", "apple", "premium"], "source_api": "dummyjson.com"}
+        },
+        {
+            "source_id": "72",
+            "name": "iPhone 15 Pro Max",
+            "price": 1199.00,
+            "currency": "USD",
+            "category": "smartphones",
+            "in_stock": true,
+            "description": "The latest flagship smartphone from Apple with A17 Pro chip.",
+            "image_url": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2015%20Pro%20Max/1.png",
+            "attributes": {"brand": "Apple", "weight_g": 221, "dimensions": {"width": 7.69, "height": 15.99, "depth": 0.83}, "rating_score": 4.92, "review_count": 5, "discount_pct": 1.5, "tags": ["smartphones", "apple"], "source_api": "dummyjson.com"}
+        },
+        {
+            "source_id": "73",
+            "name": "Samsung Galaxy S24 Ultra",
+            "price": 1299.99,
+            "currency": "USD",
+            "category": "smartphones",
+            "in_stock": true,
+            "description": "Premium Samsung flagship with S Pen and titanium frame.",
+            "image_url": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S24%20Ultra/1.png",
+            "attributes": {"brand": "Samsung", "weight_g": 233, "dimensions": {"width": 7.9, "height": 16.26, "depth": 0.86}, "rating_score": 4.65, "review_count": 4, "discount_pct": 5.0, "tags": ["smartphones", "samsung"], "source_api": "dummyjson.com"}
+        }
+    ]
+}
