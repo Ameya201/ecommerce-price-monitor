@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Competitor Price Monitor & Dashboard
 
-> **Resume Bullet:** "Developed an end-to-end Python ETL pipeline that ingests product data from multiple competitor APIs, performing data normalization and deduplication before loading into a MySQL data warehouse with JSON columns for flexible schema design, advanced SQL analytics, and an interactive Streamlit dashboard for real-time pricing intelligence."
+
 
 ## Overview
 
